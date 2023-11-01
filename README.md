@@ -84,8 +84,8 @@ In conclusion, this project underlines the significance of selecting appropriate
 ## Acknowledge
 - Kaggle for providing the dataset.
 - OpenAI for AI helped in the project.
-
-  ##Team Members
+  
+**##Team Members**
 Madhan.R
 Priyadharshini.P
 Dhatchana Moorthy.P
